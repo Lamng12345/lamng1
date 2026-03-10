@@ -6,7 +6,7 @@
 
 .header{
    flex: 15%;
-   background: url("images/banner.png") center;
+   background: url("banner.png") center;
    background-size: cover;
    background-repeat: no-repeat;
 }
