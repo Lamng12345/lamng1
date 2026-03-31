@@ -15,20 +15,22 @@
 
 .menu{
    flex: 5%;
-   background-color: darkgray;
+   background-color: #lala2e;
    display: flex;
    align-items: center;
+   boder-bottom: 2px solid #e0c097;
+   
 }
 
 .menu a{
    padding: 15px 20px;
-   color: blue;
+   color: #e0c097;
    text-decoration: none;
 }
 
 .menu a:hover{
-   background-color: lightgray;
-   color: black;
+   background-color: #4831d4;
+   color: white;
 }
 
 .content{
@@ -44,7 +46,7 @@
 
 .footer{
    flex: 10%;
-   background-color: lightgray;
+   background-color: #0f0flb;
 }
 
 h1 {
